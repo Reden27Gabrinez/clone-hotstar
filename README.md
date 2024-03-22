@@ -5,6 +5,7 @@ https://mrcloudbook.com/devsecops-ci-cd-deploying-a-secure-hotstar-clone-even-if
 <br>
 This is my 1st successful deployed 
 
-![image](https://github.com/Reden27Gabrinez/clone-hotstar/assets/101633749/e2f53a6e-31e2-482e-8179-0a7ae5ba8282)
+![image](https://github.com/Reden27Gabrinez/clone-hotstar/assets/101633749/831eb83e-1dcf-4471-8fc8-cf780dfd8b56)
+
 
 
